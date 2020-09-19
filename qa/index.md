@@ -1,7 +1,1 @@
-## QA 归档索引
-
-
-* 2020/08/12  [this is test](https://www.google.com)   
-   
-* 2020/08/13  [this is test2](www.baidu.com)   
-   
+b'## QA \xe5\xbd\x92\xe6\xa1\xa3\xe7\xb4\xa2\xe5\xbc\x95\n\n\n* 2020/08/12  [this is test](https://www.google.com)   \n   \n* 2020/08/13  [this is test2](www.baidu.com)   \n   \n'\n* 2020/08/13  [this is test3](www.bing.com)   
